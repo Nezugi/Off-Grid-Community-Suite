@@ -94,20 +94,7 @@ python3 ~/.nomadnetwork/storage/pages/TOOL/setup_admin.py
 
 ---
 
-## NomadNet Compatibility Notes
 
-Hard‑won lessons from extensive real‑world testing:
-
-- Use **F‑hex color codes** (e.g. `F777`, `F4af`) — grayscale codes (`gXX`) are broken
-- Never place a space before a backtick code — the parser swallows it
-- `print("#!c=0")` must be the **very first output** of every dynamic page to disable caching
-- All `.mu` files **must** be `chmod +x`, or NomadNet serves the source as plain text
-- Session tokens must be appended to submit links — `*` only sends form fields
-- When updating files while NomadNet is running:
-  ```bash
-  cp file.mu /tmp/ && mv /tmp/file.mu destination/
-  ```
-  (Atomic swap avoids `Text file busy` errors)
 
 ---
 
