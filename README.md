@@ -13,7 +13,7 @@ All tools share the same stack: **Python 3 · Micron Markup · SQLite · No exte
 |[./nomadComBoard](https://github.com/Nezugi/nomadComBoard)|Community discussion forum with subforums, tags, user roles and moderation|
 |[./nomadChat](https://github.com/Nezugi/nomadChat/tree/main)|Public chat room — single file, no login required|
 |[./nomadBlog](https://github.com/Nezugi/nomadBlog)|Node blog and news page with comments|
-|./nomadYellow|Curated community directory — like Yellow Pages for the mesh|
+|[./nomadYellow](https://github.com/Nezugi/nomadYellow)|Curated community directory — like Yellow Pages for the mesh|
 |./nomadMarket|Classifieds board — Offer / Wanted / Trade / Free|
 |[./nomadCalendar](https://github.com/Nezugi/nomadCalendar/tree/main)|Shared event calendar with recurring event support|
 |./nomadMission|Task board for closed groups with granular permissions|
