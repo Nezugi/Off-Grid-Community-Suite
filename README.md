@@ -8,6 +8,9 @@ All tools share the same stack: **Python 3 · Micron Markup · SQLite · No exte
 
 ## Tools
 
+Go to the individual sites for the tools you need.
+In this project you find an indx.mu for your Node to link them all for easy access
+
 |Project|Description|
 |---|---|
 |[./nomadComBoard](https://github.com/Nezugi/nomadComBoard)|Community discussion forum with subforums, tags, user roles and moderation|
@@ -72,6 +75,7 @@ node_homepage = ":/page/index.mu"
 
 ## Installation Pattern
 
+
 All tools follow the same installation steps:
 
 ```bash
@@ -91,8 +95,20 @@ python3 ~/.nomadnetwork/storage/pages/TOOL/setup_admin.py
 
 ---
 
+## Structure on the Node
 
-
+```text
+pages/
+├── blog
+├── calendar
+├── chat
+├── comboard
+├── market
+├── mission
+├── warehouse
+├── yellow
+└──index.mu
+```
 ---
 
 ## License
