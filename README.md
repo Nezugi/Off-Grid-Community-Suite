@@ -1,6 +1,6 @@
 ## Off-Grid Community Suite
 
-A suite of community tools for https://github.com/markqvist/NomadNet nodes — built for off-grid, decentralised mesh networks running on the https://github.com/markqvist/Reticulum protocol.
+A suite of community tools for [NomadNet](https://github.com/markqvist/NomadNet) nodes — built for off-grid, decentralised mesh networks running on the [Reticulum](https://github.com/markqvist/Reticulum) protocol.
 
 All tools share the same stack: **Python 3 · Micron Markup · SQLite · No external dependencies**.
 
