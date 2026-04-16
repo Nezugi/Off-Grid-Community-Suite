@@ -81,15 +81,12 @@ cp -r TOOL/ ~/.nomadnetwork/storage/pages/TOOL/
 # 2. Make .mu files executable
 chmod +x ~/.nomadnetwork/storage/pages/TOOL/*.mu
 
-# 3. Create data directory
-mkdir -p /home/YOUR_USER/.nomadTOOL
+# 3. Set storage_path in main.py to your real user path
 
-# 4. Set storage_path in main.py to your real user path
-
-# 5. Set admin password
+# 4. Set admin password
 python3 ~/.nomadnetwork/storage/pages/TOOL/setup_admin.py
 
-# 6. Restart NomadNet
+# 5. Restart NomadNet
 ```
 
 ---
