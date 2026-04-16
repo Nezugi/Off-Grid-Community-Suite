@@ -17,7 +17,7 @@ All tools share the same stack: **Python 3 · Micron Markup · SQLite · No exte
 |[./nomadMarket](https://github.com/Nezugi/nomadMarket)|Classifieds board — Offer / Wanted / Trade / Free|
 |[./nomadCalendar](https://github.com/Nezugi/nomadCalendar/tree/main)|Shared event calendar with recurring event support|
 |[./nomadMission](https://github.com/Nezugi/nomadMission)|Task board for closed groups with granular permissions|
-|./nomadWarehouse|Inventory management with per-category user permissions|
+|[./nomadWarehouse](https://github.com/Nezugi/nomadWarehouse)|Inventory management with per-category user permissions|
 
 ---
 
