@@ -11,7 +11,7 @@ All tools share the same stack: **Python 3 · Micron Markup · SQLite · No exte
 |Project|Description|
 |---|---|
 |[./nomadComBoard](https://github.com/Nezugi/nomadComBoard)|Community discussion forum with subforums, tags, user roles and moderation|
-|./nomadChat|Public chat room — single file, no login required|
+|[./nomadChat](https://github.com/Nezugi/nomadChat/tree/main)|Public chat room — single file, no login required|
 |./nomadBlog|Node blog and news page with comments|
 |./nomadYellow|Curated community directory — like Yellow Pages for the mesh|
 |./nomadMarket|Classifieds board — Offer / Wanted / Trade / Free|
