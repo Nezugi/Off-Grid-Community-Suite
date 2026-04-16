@@ -15,7 +15,7 @@ All tools share the same stack: **Python 3 · Micron Markup · SQLite · No exte
 |./nomadBlog|Node blog and news page with comments|
 |./nomadYellow|Curated community directory — like Yellow Pages for the mesh|
 |./nomadMarket|Classifieds board — Offer / Wanted / Trade / Free|
-|./nomadCalendar|Shared event calendar with recurring event support|
+|[./nomadCalendar](https://github.com/Nezugi/nomadCalendar/tree/main)|Shared event calendar with recurring event support|
 |./nomadMission|Task board for closed groups with granular permissions|
 |./nomadWarehouse|Inventory management with per-category user permissions|
 
