@@ -15,7 +15,7 @@ In this project you find an indx.mu for your Node to link them all for easy acce
 |---|---|
 |[./nomadComBoard](https://github.com/Nezugi/nomadComBoard)|Community discussion forum with subforums, tags, user roles and moderation|
 |[./nomadChat](https://github.com/Nezugi/nomadChat/tree/main)|Public chat room — single file, no login required|
-|[./nomadBlog](https://github.com/Nezugi/nomadBlog)|Node blog and news page with comments|
+|[./nomadBlog](https://github.com/Nezugi/nomadBlog)|Node blog and news page|
 |[./nomadYellow](https://github.com/Nezugi/nomadYellow)|Curated community directory — like Yellow Pages for the mesh|
 |[./nomadMarket](https://github.com/Nezugi/nomadMarket)|Classifieds board — Offer / Wanted / Trade / Free|
 |[./nomadCalendar](https://github.com/Nezugi/nomadCalendar/tree/main)|Shared event calendar with recurring event support|
