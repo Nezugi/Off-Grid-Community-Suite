@@ -88,9 +88,10 @@ chmod +x ~/.nomadnetwork/storage/pages/TOOL/*.mu
 # 3. Set storage_path in main.py to your real user path
 
 # 4. Set admin password
+Run the Admin creation File example:
 python3 ~/.nomadnetwork/storage/pages/TOOL/setup_admin.py
 
-# 5. Restart NomadNet
+# 5. and your good to go
 ```
 
 ---
