@@ -55,7 +55,7 @@ tool/
 - `print_header(subtitle=None)` — consistent title + description header
 - `print_footer()` — suite attribution footer
 - `nav_bar(...)` — navigation with orange ← Node Start as the last link
-- `lxmf_link(address)` — clickable `lxmf://` address links
+- `lxmf_link(address)` — clickable `lxmf` address links for direct contact to everyone
 
 ---
 
