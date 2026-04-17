@@ -73,25 +73,18 @@ node_homepage = ":/page/index.mu"
 
 ---
 
-## Installation Pattern
+## Installation
 
 
-All tools follow the same installation steps:
 
 ```bash
-# 1. Copy tool to your node's pages directory
-cp -r TOOL/ ~/.nomadnetwork/storage/pages/TOOL/
+Install the tools independently
 
-# 2. Make .mu files executable
-chmod +x ~/.nomadnetwork/storage/pages/TOOL/*.mu
+or
 
-# 3. Set storage_path in main.py to your real user path
+Use the Suite_Install.sh to choose the tool you want and set the admin account for all tools in one go
+it also creats the index.mu with the tools you choose
 
-# 4. Set admin password
-Run the Admin creation File example:
-python3 ~/.nomadnetwork/storage/pages/TOOL/setup_admin.py
-
-# 5. and your good to go
 ```
 
 ---
